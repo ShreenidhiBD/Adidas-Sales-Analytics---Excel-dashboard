@@ -46,6 +46,9 @@ The dataset contains Adidas sales-related information including:
 ## Project Outcome
 This project helps visualize complex sales data in a simple and interactive way, making it easier to understand business performance and support strategic decision-making.
 
+## Dashboard Preview
+![Dashboard Screenshot](adidas.png)
+
 ## Author
 **Shreenidhi B D**  
 Aspiring Data Analyst
